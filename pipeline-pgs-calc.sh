@@ -1,4 +1,4 @@
-# Nextflow
+# Ejemplo datos de exoma (oroGen)en formato Plink
 
 cd ~/PGS_Catalog
 
