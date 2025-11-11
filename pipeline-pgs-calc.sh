@@ -1,4 +1,4 @@
-# Ejemplo datos de exoma (oroGen)en formato Plink
+# Ejemplo datos de exoma (oriGen)en formato Plink
 
 cd ~/PGS_Catalog
 
